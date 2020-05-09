@@ -1,0 +1,5 @@
+ports:
+   - port: 5000
+     procotol: http
+cmd: dotnet aspnetapp.dll      
+     
